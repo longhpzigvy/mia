@@ -8,7 +8,7 @@ To be updated later
 
 ## Solution Architecture
 
- - Project in a page
+ - [Project on a page](/docs/project-on-a-page.pdf)
 
 ## Test Framework
 
